@@ -25,8 +25,8 @@ Here is a list of all the jobs for to this project, their main `.html` & `.css` 
 
 | No. | Name | Files | Status |
 | --- | ---- | ------ | ------ |
-| 1 | [*`Jour 2 - CSS`*](#Jour-2---CSS) | **cv-abraham-ukachi.html** | _*In progress*_ |
-| 2 | [*`Jour 2 - CSS`*](#Jour-2---CSS) |  **cv-abraham-ukachi.css** | Pending |
+| 1 | [*`Jour 2 - CSS`*](#Jour-2---CSS) | **cv-abraham-ukachi.html** | [Done](./cv-abraham-ukachi.html)\* |
+| 2 | [*`Jour 2 - CSS`*](#Jour-2---CSS) |  **cv-abraham-ukachi.css** | [Done](./cv-abraham-ukachi.css)\* |
 
 > NOTE: (\*) = still needs to be updated
 
