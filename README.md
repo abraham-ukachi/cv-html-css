@@ -1,7 +1,7 @@
 # `cv-html-css`
 > IMPORTANT: This is a work in progress and subject to major changes
 
-A school project teaching us (students) how to style our [previously](https://github.com/abraham-ukachi/cv-html) created HTML file using CSS. But like I said, I've already got a tiny bit of experience in the subject, I also decided to turn my *Curriculum Vitae* (CV) into a **Progressive Web App** named [ab-cv-app](https://github.com/abraham-ukachi/ab-cv-app) which includes a [color scheme](https://github.com/abraham-ukachi/ab-cv-app#Color-scheme), [topography](https://github.com/abraham-ukachi/ab-cv-app#Topogrphy), [shape](https://github.com/abraham-ukachi/ab-cv-app#Shape) and [shadow](https://github.com/abraham-ukachi/ab-cv-app#Shadow).
+A school project which aims to teach me  how to style my [previously](https://github.com/abraham-ukachi/cv-html) created **HTML** file using **CSS**. But like I said, I've already got a tiny bit of experience in the subject, so I decided to turn my *Curriculum Vitae* (CV) into a **Progressive Web App** named [ab-cv-app](https://github.com/abraham-ukachi/ab-cv-app) which includes a [color scheme](https://github.com/abraham-ukachi/ab-cv-app#Color-scheme), [topography](https://github.com/abraham-ukachi/ab-cv-app#Topogrphy), [shape](https://github.com/abraham-ukachi/ab-cv-app#Shape) and [shadow](https://github.com/abraham-ukachi/ab-cv-app#Shadow).
 
 
 ## Description
@@ -20,12 +20,12 @@ These are a couple of the main requirements for this school project:
 ## Jobs
 > MOTTO: I'll always do more 😜
 
-The official deadline - according to [intra](https://intra.laplateforme.io) - was **25/10/2022 à 11h15**.
-Here is a list of all the jobs for to this project, their main `.html`  files, and current status:
+The official deadline - according to [intra](https://intra.laplateforme.io) - was **26/10/2022 at 4:43 PM**.
+Here is a list of all the jobs for to this project, their main `.html` & `.css`  files, and current status:
 
 | No. | Name | Files | Status |
 | --- | ---- | ------ | ------ |
-| 1 | [*`Jour 2 - CSS`*](#Jour-2---CSS) | **cv-abraham-ukachi.html** | Pending |
+| 1 | [*`Jour 2 - CSS`*](#Jour-2---CSS) | **cv-abraham-ukachi.html** | _*In progress*_ |
 | 2 | [*`Jour 2 - CSS`*](#Jour-2---CSS) |  **cv-abraham-ukachi.css** | Pending |
 
 > NOTE: (\*) = still needs to be updated
@@ -38,7 +38,7 @@ This is just a **static** version of my CV with some **CSS** styling. See [`ab-c
 ### Structure
 
 The folder & file structure of my CV:
-  
+
 - [**assets**](./assets/)
 - - [**icons**](./assets/icons/)
 - - * ...
@@ -67,6 +67,8 @@ open cv-abraham-ukachi.html
 
 ### TODOs
 
+- [ ] Create a **theme dialog** with a list of available themes (ie. Classic, Light & Dark)
+- [ ] Create a **language dialog** with a list of currently supported languages
 - [ ] Optimize the [**cv-abraham-ukachi.html**](./cv-abraham-ukachi.html) file
 - [ ] Optimize the [**cv-abraham-ukachi.css**](./cv-abraham-ukachi.css) file
 - [ ] Remove unnecessary comments
