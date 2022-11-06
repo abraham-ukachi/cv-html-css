@@ -40,12 +40,16 @@ This is just a **static** version of my CV with some **CSS** styling. See [`ab-c
 The folder & file structure of my CV:
 
 - [**assets**](./assets/)
+- - ...
+- - [**fonts**](./assets/fonts)
 - - [**icons**](./assets/icons/)
+- - [**logos**](./assets/logos/)
+- - [**images**](./assets/images/)
 - - * ...
-- - * work-icon.svg
-- - pic.png
+- - * favicon.ico
 - LICENSE
 - README.md
+- manifest.json
 - **cv-abraham-ukachi.css**
 - **cv-abraham-ukachi.html**
 
@@ -67,9 +71,11 @@ open cv-abraham-ukachi.html
 
 ### TODOs
 
-- [ ] Create a **theme dialog** with a list of available themes (ie. Classic, Light & Dark)
-- [ ] Create a **language dialog** with a list of currently supported languages
-- [ ] Optimize the [**cv-abraham-ukachi.html**](./cv-abraham-ukachi.html) file
-- [ ] Optimize the [**cv-abraham-ukachi.css**](./cv-abraham-ukachi.css) file
-- [ ] Remove unnecessary comments
+- [ ] Style the *`[eductation]section`*.
+- [ ] Style the *`[experience]section`*.
+- [ ] Create a **theme dialog** with a list of available themes (ie. Classic, Light & Dark).
+- [ ] Create a **language dialog** with a list of currently supported languages.
+- [ ] Optimize the [**cv-abraham-ukachi.html**](./cv-abraham-ukachi.html) file.
+- [ ] Optimize the [**cv-abraham-ukachi.css**](./cv-abraham-ukachi.css) file.
+- [ ] Remove unnecessary comments.
 
